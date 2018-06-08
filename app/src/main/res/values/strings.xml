@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Fourier Transform</string>
+    <string name="action_settings">Settings</string>
+    <string name="desc">Description</string>
+    <string name="Ampl">Ampl.</string>
+    <string name="Phas">Phase</string>
+    <string name="Real">Real</string>
+    <string name="Imag">Imag</string>
+    <string name="error_init">Error</string>
+    <string name="title_activity_info">InfoActivity</string>
+    <string name="lAbout">About</string>
+    <string name="lVersion">Version</string>
+    <string name="lMailTo">mail to</string>
+    <string name="lcopyright">Copyright</string>
+    <string name="vLink">www.gedenek.com</string>
+    <string name="vVersion">Ver.1.0.0</string>
+    <string name="vCopyright">gedenek 2013</string>
+    <string name="vemail">kadirerturk@gmail.com</string>
+    <string name="btnBack">Back</string>
+
+
+</resources>
